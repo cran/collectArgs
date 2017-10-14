@@ -1,0 +1,14 @@
+ef0db1a4d60d1978b60a3cb536183a78 *DESCRIPTION
+148550867c535fc1de891956e88261d6 *LICENSE
+fdc92ed0f2ac4e65527935f8dff3fcde *NAMESPACE
+7c345314903ad86f567a4f59ba0f0224 *R/AAA__onLoad.R
+2becf27a9a4c7a6f565bda201497c338 *R/collectArgs.R
+070b90e70f68b6210e61762a46a1f6ef *build/vignette.rds
+199abab9fb3ba2a4336c249965f04b67 *inst/doc/collectArgs_and_iterateWithArgs.R
+482e0a0d570d937172b5adb60e1bcc74 *inst/doc/collectArgs_and_iterateWithArgs.Rmd
+72a4ee3ebf4ced49b5dc6875d3b57e56 *inst/doc/collectArgs_and_iterateWithArgs.html
+e863d101c3ec736f6a020cd83fbdd893 *man/collectArgs-and-iterateWithArgs.Rd
+556cfeaf487637d71d7a92b05be3f254 *tests/testthat.R
+f54a0d00ce74a2b162b3cb2695e155fd *tests/testthat/test-collectArgs.R
+96e088da953ccc1809e837471305120b *tests/testthat/test-iterateWithArgs.R
+482e0a0d570d937172b5adb60e1bcc74 *vignettes/collectArgs_and_iterateWithArgs.Rmd
